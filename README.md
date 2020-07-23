@@ -4,8 +4,8 @@ A Flutter Movie app use developer API from The Movie DB.
 
 ## Flutter version
 
-SDK 1.12.13+hotfix.9
-Dart 2.7.2
+>SDK 1.12.13+hotfix.9
+>Dart 2.7.2
 
 ## Preview
 
