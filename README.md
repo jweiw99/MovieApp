@@ -9,5 +9,5 @@ Dart 2.7.2
 
 ## Preview
 
-<img src="https://github.com/jweiw99/MovieApp/srceenshot/home.png" width="150"><img src="https://github.com/jweiw99/MovieApp/srceenshot/movie_details.png" width="150">
+<img src="https://github.com/jweiw99/MovieApp/blob/master/srceenshot/home.png" width="150"><img src="https://github.com/jweiw99/MovieApp/blob/master/srceenshot/movie_details.png" width="150">
 
