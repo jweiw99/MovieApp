@@ -1,16 +1,13 @@
-# movieapp
+# Movie App
 
-A new Flutter project.
+A Flutter Movie app use developer API from The Movie DB.
 
-## Getting Started
+## Flutter version
 
-This project is a starting point for a Flutter application.
+SDK 1.12.13+hotfix.9
+Dart 2.7.2
 
-A few resources to get you started if this is your first Flutter project:
+## Preview
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/jweiw99/MovieApp/srceenshot/home.png" width="150"><img src="https://github.com/jweiw99/MovieApp/srceenshot/movie_details.png" width="150">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
